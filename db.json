@@ -1,0 +1,7 @@
+{
+  "parks": [
+    { "id": 1, "title": "Park Nord", "active": false },
+    { "id": 2, "title": "Park Sud", "active": false },
+    { "id": 3, "title": "Park 2024", "active": true }
+  ]
+}
